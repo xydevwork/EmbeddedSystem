@@ -1,2 +1,4 @@
-c估计很快会根据客户给开个
-c
+#include<stdio.h>
+int main()
+{
+}
